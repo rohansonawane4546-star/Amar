@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "THEBOYS-Ih9E.aternos.me,
+    "ip": "THEBOYS-Ih9E.aternos.me",
     "port":19062 ,
     "version": "1.20.1",
     "try-creative": false
